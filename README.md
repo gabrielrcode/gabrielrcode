@@ -5,4 +5,4 @@
 
 ## 🛠️ Skills
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,aws,ps,ai)
+![Skills](https://skillicons.dev/icons?i=html,css,js,git,github,aws,ps,ai)

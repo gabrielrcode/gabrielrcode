@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou Gabriel!
+# 👋 Olá, eu sou Gabriel Augusto Rocha Lima!
 
 💻 Front-End Developer  
-🎓 Systems Analysis and Development Student at [Unipê](https://www.unipe.edu.br/)
+🎓 Systems Analysis and Development Student at [Faculdade Unipê](https://www.unipe.edu.br/)
 
 ## 🛠️ Skills
 
